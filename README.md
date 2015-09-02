@@ -1,37 +1,41 @@
 Recommended CTF Tools:
 
-Linux
- - Kali
- - Ubuntu
- - Other
+###General
+- Linux
+    - Kali
+    - Ubuntu
+    - Other
 
-Terminal
+- Terminal
 
-Text Editor
- - Vim
- - Sublime
- - Notepad++ for Windows
+- Text Editor
+    - Vim
+    - Sublime
+    - Notepad++ for Windows
 
-Scripting Language
- - Python, Ruby, Perl.. whatever you prefer
+- Scripting Language
+    - Python
+    - Ruby
+    - Perl
+    - Whatever you prefer
 
-Web
- - Web Browser (duh)
+###Web
+- Web Browser (duh)
     - Dev tools
     - Cookie editor
- - Burp Suite (Free version)
+- Burp Suite (Free version)
 
-Networking Tools
- - Wireshark
- - Netcat
- - SSH or Putty for Windows
+###Networking
+- Wireshark
+- Netcat
+- SSH or Putty for Windows
 
-Reversing
- - IDA Pro (free version)
- - gdb
- - GNU binutils: objdump, strings
- - foremost
- - Hex editor
+### Reversing/Exploitation
+- IDA Pro (free version)
+- gdb
+- GNU binutils: objdump, strings
+- foremost
+- Hex editor
      - xxd
      - hexedit
      - ghex
